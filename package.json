@@ -1,0 +1,22 @@
+{
+  "name": "createpack",
+  "version": "1.0.0",
+  "description": "I am learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zitaife/createpack.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "Okoye Zitaife",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zitaife/createpack/issues"
+  },
+  "homepage": "https://github.com/Zitaife/createpack#readme"
+}
